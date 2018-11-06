@@ -1,3 +1,6 @@
+body {
+	background-color: #e9ecef;
+}
 body, table {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
@@ -180,6 +183,7 @@ padding: 15px;
     padding: 4px;
 }
 .menu{
+background-color: #202c38;
 padding: 20px 30px;
 border-bottom: 1px solid #3e5671;
 cursor: pointer;
